@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.geology">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity"
+            android:label="@string/material_name"></activity>
+        <activity
+            android:name=".fifteen"
+            android:label="@string/fifteen_name" />
+        <activity
+            android:name=".fourteen"
+            android:label="@string/fourteen_name" />
+        <activity
+            android:name=".thirteenth"
+            android:label="@string/thirteen_name" />
+        <activity
+            android:name=".twelveth"
+            android:label="@string/twelveth_name" />
+        <activity
+            android:name=".eleventh"
+            android:label="@string/eleventh_name" />
+        <activity
+            android:name=".tenth"
+            android:label="@string/tenth_name" />
+        <activity
+            android:name=".ninth"
+            android:label="@string/ninth_name" />
+        <activity
+            android:name=".eighth"
+            android:label="@string/eighth_name" />
+        <activity
+            android:name=".seventh"
+            android:label="@string/seventh_name" />
+        <activity
+            android:name=".sixth"
+            android:label="@string/sixth_name" />
+        <activity
+            android:name=".fifth"
+            android:label="@string/fifth_name" />
+        <activity
+            android:name=".fourth"
+            android:label="@string/fourth_name" />
+        <activity
+            android:name=".third"
+            android:label="@string/third_name" />
+        <activity
+            android:name=".second"
+            android:label="@string/second_name" />
+        <activity
+            android:name=".first"
+            android:label="@string/first_name" />
+        <activity
+            android:name=".start"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

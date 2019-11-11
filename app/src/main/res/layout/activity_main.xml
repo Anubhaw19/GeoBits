@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:background="#212121"
+    android:layout_width="match_parent">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" Apatite"
+        style="@style/txtdeco"
+        android:id="@+id/text1"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Asbestos"
+        style="@style/txtdeco"
+        android:id="@+id/text2"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Beryl"
+        style="@style/txtdeco"
+        android:id="@+id/text3"
+        />
+
+    <TextView
+        android:id="@+id/text4"
+        style="@style/txtdeco"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Biotile" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Calcite"
+        style="@style/txtdeco"
+        android:id="@+id/text5"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Fluorite"
+        style="@style/txtdeco"
+        android:id="@+id/text6"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" Galena"
+        style="@style/txtdeco"
+        android:id="@+id/text7"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" Gypsum"
+        style="@style/txtdeco"
+        android:id="@+id/text8"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" Hematite"
+        style="@style/txtdeco"
+        android:id="@+id/text9"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" Kyanite"
+        style="@style/txtdeco"
+        android:id="@+id/text10"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" Microcline"
+        style="@style/txtdeco"
+        android:id="@+id/text11"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" Moscovite"
+        style="@style/txtdeco"
+        android:id="@+id/text12"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" Olivil"
+        style="@style/txtdeco"
+        android:id="@+id/text13"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" Orthoclase"
+        style="@style/txtdeco"
+        android:id="@+id/text14"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" Quartz"
+        style="@style/txtdeco"
+        android:id="@+id/text15"
+        />
+</LinearLayout>
+</ScrollView>

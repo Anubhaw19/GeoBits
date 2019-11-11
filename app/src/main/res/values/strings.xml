@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Geology</string>
+    <string name="first_name">Apatite</string>
+    <string name="second_name">Asbestos</string>
+    <string name="third_name">Beryl</string>
+    <string name="fourth_name">Biotile</string>
+    <string name="fifth_name">Calcite</string>
+    <string name="sixth_name">Fluorite</string>
+    <string name="seventh_name">Galena</string>
+    <string name="eighth_name">Gypsum</string>
+    <string name="ninth_name">Hematite</string>
+    <string name="tenth_name">Kyanite</string>
+    <string name="eleventh_name">Microcline</string>
+    <string name="twelveth_name">Moscovite</string>
+    <string name="thirteen_name">Olivil</string>
+    <string name="fourteen_name">Orthoclase</string>
+    <string name="fifteen_name">Quartz</string>
+    <string name="material_name">Minerals</string>
+</resources>
