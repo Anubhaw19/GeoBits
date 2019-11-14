@@ -9,8 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity"
-            android:label="@string/material_name"></activity>
+        <activity android:name=".A1"></activity>
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/material_name" />
         <activity
             android:name=".fifteen"
             android:label="@string/fifteen_name" />
