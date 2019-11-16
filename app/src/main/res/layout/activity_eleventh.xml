@@ -16,6 +16,7 @@
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="200dp"
+            android:id="@+id/img11"
             android:src="@drawable/microcline"
             android:layout_weight="1"
             android:layout_marginBottom="10dp"

@@ -11,23 +11,16 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:padding="5dp"
-        tools:context=".tenth"
+        tools:context=".A8"
         android:orientation="vertical">
+
         <ImageView
+
             android:layout_width="match_parent"
-            android:layout_height="200dp"
-            android:src="@drawable/kyanite"
-            android:id="@+id/img10"
+            android:layout_height="match_parent"
             android:layout_weight="1"
-            android:layout_marginBottom="10dp"
-            />
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            style="@style/txtdeco2"
-            android:id="@+id/tx10"
-            android:text="First Avtivity"
-            android:layout_weight="5" />
+            android:src="@drawable/gypsum" />
+
 
     </LinearLayout>
 </ScrollView>

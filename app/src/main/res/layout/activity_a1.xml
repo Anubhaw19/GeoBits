@@ -7,18 +7,18 @@
     android:background="#212121"
     android:layout_width="match_parent">
     <LinearLayout
-
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:padding="5dp"
-        tools:context=".eighth"
+        android:background="#212121"
+        tools:context=".A1"
         android:orientation="vertical">
 
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-
             android:layout_weight="1"
+
             android:src="@drawable/apatite" />
 
 

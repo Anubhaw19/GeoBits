@@ -16,6 +16,7 @@
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="200dp"
+            android:id="@+id/img12"
             android:src="@drawable/moscovite"
             android:layout_weight="1"
             android:layout_marginBottom="10dp"
