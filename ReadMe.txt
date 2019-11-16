@@ -1,1 +1,1 @@
-this is an app which will show different properties of Minerals.
+this is an app which will show physical properties of Minerals.
